@@ -35,6 +35,19 @@ So some of this will be over our heads but these are some examples of machine le
 
 ## Ryan
 
+### Background
+
+I think it may be a good idea to understand how machine learning actually works without being bogged down by the technicalities of it, so I recommend every watching this video by CGP Grey on how [machines learn](https://www.youtube.com/watch?v=R9OHn5ZF4Uo).
+
+### Resources
+
+* Joseph Misiti has a curated list of ML python frameworks and libraries on [GitHub](https://github.com/josephmisiti/awesome-machine-learning#python).
+* Marco Bonzanini walks you through mining [mining Twitter data](https://marcobonzanini.com/2015/03/02/mining-twitter-data-with-python-part-1/)and performing [sentiment analysis](https://marcobonzanini.com/2015/05/17/mining-twitter-data-with-python-part-6-sentiment-analysis-basics/) on them. 
+* The University of California, Irvine, has a [machine learning repository](https://archive.ics.uci.edu/ml/index.php) replete with 426 data sets that's meant to assist the machine learning community.  
+* William Koehrsen was inspired by *Moneyball* and wanted to use python and machine learning to mimic the same kind of [Sabermetrics](https://en.wikipedia.org/wiki/Sabermetrics). He was successful and created a [tutorial](https://medium.com/@williamkoehrsen/data-analysis-with-python-19434f5d6324) so that others could do the same. 
+* Here's an article that talks about using python and machine learning to predict winners of NBA games. [Link](https://hackernoon.com/how-to-create-your-own-machine-learning-predictive-system-in-the-nba-using-python-7189d964a371).
+* I'm seeing a whole lot of talk of [scikit](http://scikit-learn.org/stable/index.html) across all these tutorials. This may be *the* python library for ML. 
+
 ## Mary-Lou
 Just for the sake of not repeating what has already been said, I kept my section kind of short. Below I have provided more examples and discussion about what machine learning is, because Andrew really covered the tutorial stuff and Caitlin gave some great examples. 
 ### Resources
