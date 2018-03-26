@@ -36,5 +36,10 @@ So some of this will be over our heads but these are some examples of machine le
 ## Ryan
 
 ## Mary-Lou
+Just for the sake of not repeating what has already been said, I kept my section kind of short. Below I have provided more examples and discussion about what machine learning is, because Andrew really covered the tutorial stuff and Caitlin gave some great examples. 
+### Resources
+1. How machine learning could change journalism — [How machine learning could change journalism - Storybench](http://www.storybench.org/how-machine-learning-could-change-journalism/). This is a pretty good article about how journalists can use machine learning. It talks about what machine learning is, what the future with machine learning looks like and some books to help learn it (although we won’t be buying any books to learn it in this short time span). 
+2. Different types of machine learning — [Data journalism’s AI opportunity: the 3 different types of machine learning & how they have already been used | Online Journalism Blog](https://onlinejournalismblog.com/2017/12/14/data-journalisms-ai-opportunity-the-3-different-types-of-machine-learning-how-they-have-already-been-used/). This article is good because it talks about the three different types of machine learning: supervised, unsupervised and reinforcement. 
+3. Three examples of machine learning — [Three examples of machine learning in the newsroom – Global Editors Network – Medium](https://medium.com/global-editors-network/three-examples-of-machine-learning-in-the-newsroom-1b47d1f7515a). This article also goes over what machine learning is, and then it gives three examples of machine learning in journalism. They are all the ones we discussed in class — the LA Times crime story, BuzzFeed plane story and New York Times Congress Shazam app. 
 
 ## Nicole
