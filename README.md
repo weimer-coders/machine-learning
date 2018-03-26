@@ -42,7 +42,7 @@ I think it may be a good idea to understand how machine learning actually works 
 ### Resources
 
 * Joseph Misiti has a curated list of ML python frameworks and libraries on [GitHub](https://github.com/josephmisiti/awesome-machine-learning#python).
-* Marco Bonzanini walks you through mining [mining Twitter data](https://marcobonzanini.com/2015/03/02/mining-twitter-data-with-python-part-1/)and performing [sentiment analysis](https://marcobonzanini.com/2015/05/17/mining-twitter-data-with-python-part-6-sentiment-analysis-basics/) on them. 
+* Marco Bonzanini walks you through mining [mining Twitter data](https://marcobonzanini.com/2015/03/02/mining-twitter-data-with-python-part-1/) and performing [sentiment analysis](https://marcobonzanini.com/2015/05/17/mining-twitter-data-with-python-part-6-sentiment-analysis-basics/) on them. 
 * The University of California, Irvine, has a [machine learning repository](https://archive.ics.uci.edu/ml/index.php) replete with 426 data sets that's meant to assist the machine learning community.  
 * William Koehrsen was inspired by *Moneyball* and wanted to use python and machine learning to mimic the same kind of [Sabermetrics](https://en.wikipedia.org/wiki/Sabermetrics). He was successful and created a [tutorial](https://medium.com/@williamkoehrsen/data-analysis-with-python-19434f5d6324) so that others could do the same. 
 * Here's an article that talks about using python and machine learning to predict winners of NBA games. [Link](https://hackernoon.com/how-to-create-your-own-machine-learning-predictive-system-in-the-nba-using-python-7189d964a371).
