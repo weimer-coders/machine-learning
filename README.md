@@ -23,7 +23,14 @@ I know The LA Times Data Desk still uses this philosophy on some of it's project
 As I normally do with these research things, here's my quick blurb about ethics. We should consider them. Machines aren't objective, algorithms aren't objective, machine learning algorithms aren't objective. All technology has embedded in it the biases of it's creators. But [don't take my word for it](http://www.niemanlab.org/2018/03/how-digital-leaders-from-the-bbc-and-al-jazeera-are-planning-for-the-ethics-of-ai/). I'll get off my pulpit now.
 
 ## Caitlin
-
+### Tutorials
+Adding on to Andrew's videos, [DataCamp](https://www.datacamp.com/community/tutorials/machine-learning-python) has a good walkthrough on machine learning. If you go to the comments, the creators have answered questions people have had so that might be useful.
+### Machine Learning in Journalism
+So some of this will be over our heads but these are some examples of machine learning in news stories.
+1. ProPublica has used machine learning to analyze Congressional representatives' priorities by reading keywords in press releases for [Represent](https://www.propublica.org/nerds/teaching-a-machine-what-congress-cares-about).
+2. ProPublica also used machine learning to find out that the Broward County Sheriff's Office was using a biased system to predict whether black and white felons would reoffend for its project [Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing). If you're feeling really brave, their code is [here](https://github.com/propublica/compas-analysis). 
+3. The Atlanta Journal-Constitution used machine learning for [Doctors and Sex Abuse](http://doctors.ajc.com/about_this_investigation/) to analyze documents based on keywords to flag those that need to be read. 
+4. Machine learning can also be used for [analytics](https://blog.google/topics/journalism-news/how-publishers-can-take-advantage-machine-learning/) and understanding one's audience or moderating content.  
 ## Gabrielle
 
 ## Ryan
