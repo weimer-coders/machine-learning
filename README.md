@@ -32,6 +32,26 @@ So some of this will be over our heads but these are some examples of machine le
 3. The Atlanta Journal-Constitution used machine learning for [Doctors and Sex Abuse](http://doctors.ajc.com/about_this_investigation/) to analyze documents based on keywords to flag those that need to be read. 
 4. Machine learning can also be used for [analytics](https://blog.google/topics/journalism-news/how-publishers-can-take-advantage-machine-learning/) and understanding one's audience or moderating content.  
 ## Gabrielle
+## Machine Learning + Journalism
+- Poynter has a great article outlining different examples of journalism projects that used machine learning.  [https://www.poynter.org/news/how-newsrooms-are-using-machine-learning-make-journalists-lives-easier](https://www.poynter.org/news/how-newsrooms-are-using-machine-learning-make-journalists-lives-easier)
+    
+-   A sober look at Artificial Intelligence in journalism from the [GEN Summit](https://gensummit2017.org/): Possible challenges and necessary precautions for worst case scenarios
+    
+-   This is a  [very cool conversation ](https://medium.com/global-editors-network/a-sober-look-at-artificial-intelligence-in-journalism-from-the-gen-summit-8df3f04187df)from a conference that has good advice for journalists venturing into AI. 
+    
+-  [This Medium post](https://medium.com/global-editors-network/artificial-intelligence-cant-solve-every-problem-in-the-media-but-it-can-take-care-of-these-bb633474c39) explains a bunch of different uses for AI in journalism, plus trends in the industry and tips to get started.
+
+  
+  
+
+## Cool examples of how journalists are using machine learning
+
+-    [Juicer (BBC News Lab)](http://newsmap.bbcnewslabs.co.uk/): Interactive map that collects stories from around the world. Users can click on a country and see the latest news from that area.
+    
+-  [ Lazarus (The New York Times)](http://nytlabs.com/projects/lazarus.html): A really cool archive of images/visual journalism from the last century, organized with tags and metadata (publication dates, etc). 
+    
+-   [Editor (The New York Times)](http://nytlabs.com/projects/editor.html): This is an “ experimental text editing interface” that use neural networks (fancy) to annotate articles and apply New York Times tags to text.
+
 
 ## Ryan
 
