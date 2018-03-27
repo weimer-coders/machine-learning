@@ -31,13 +31,14 @@ So some of this will be over our heads but these are some examples of machine le
 2. ProPublica also used machine learning to find out that the Broward County Sheriff's Office was using a biased system to predict whether black and white felons would reoffend for its project [Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing). If you're feeling really brave, their code is [here](https://github.com/propublica/compas-analysis). 
 3. The Atlanta Journal-Constitution used machine learning for [Doctors and Sex Abuse](http://doctors.ajc.com/about_this_investigation/) to analyze documents based on keywords to flag those that need to be read. 
 4. Machine learning can also be used for [analytics](https://blog.google/topics/journalism-news/how-publishers-can-take-advantage-machine-learning/) and understanding one's audience or moderating content.  
+
 ## Gabrielle
 ## Machine Learning + Journalism
 - Poynter has a great article outlining different examples of journalism projects that used machine learning.  [https://www.poynter.org/news/how-newsrooms-are-using-machine-learning-make-journalists-lives-easier](https://www.poynter.org/news/how-newsrooms-are-using-machine-learning-make-journalists-lives-easier)
     
 -   A sober look at Artificial Intelligence in journalism from the [GEN Summit](https://gensummit2017.org/): Possible challenges and necessary precautions for worst case scenarios
 
-That link does not work - MM
+*That link does not work - MM*
     
 -   This is a  [very cool conversation ](https://medium.com/global-editors-network/a-sober-look-at-artificial-intelligence-in-journalism-from-the-gen-summit-8df3f04187df)from a conference that has good advice for journalists venturing into AI. 
     
@@ -69,6 +70,8 @@ I think it may be a good idea to understand how machine learning actually works 
 * William Koehrsen was inspired by *Moneyball* and wanted to use python and machine learning to mimic the same kind of [Sabermetrics](https://en.wikipedia.org/wiki/Sabermetrics). He was successful and created a [tutorial](https://medium.com/@williamkoehrsen/data-analysis-with-python-19434f5d6324) so that others could do the same. 
 * Here's an article that talks about using python and machine learning to predict winners of NBA games. [Link](https://hackernoon.com/how-to-create-your-own-machine-learning-predictive-system-in-the-nba-using-python-7189d964a371).
 * I'm seeing a whole lot of talk of [scikit](http://scikit-learn.org/stable/index.html) across all these tutorials. This may be *the* python library for ML. 
+
+*I've been exploring [Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn) at DataCamp, and in addition to using NumPy and Pandas, it assumes you understand linear regression, which I really do not. Just a heads-up. MM*
 
 ## Mary-Lou
 Just for the sake of not repeating what has already been said, I kept my section kind of short. Below I have provided more examples and discussion about what machine learning is, because Andrew really covered the tutorial stuff and Caitlin gave some great examples. 
