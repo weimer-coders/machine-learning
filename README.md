@@ -36,6 +36,10 @@ So some of this will be over our heads but these are some examples of machine le
 - Poynter has a great article outlining different examples of journalism projects that used machine learning.  [https://www.poynter.org/news/how-newsrooms-are-using-machine-learning-make-journalists-lives-easier](https://www.poynter.org/news/how-newsrooms-are-using-machine-learning-make-journalists-lives-easier)
     
 -   A sober look at Artificial Intelligence in journalism from the [GEN Summit](https://gensummit2017.org/): Possible challenges and necessary precautions for worst case scenarios
+
+This appears to be the correct link: 
+https://medium.com/global-editors-network/a-sober-look-at-artificial-intelligence-in-journalism-from-the-gen-summit-8df3f04187df 
+MM
     
 -   This is a  [very cool conversation ](https://medium.com/global-editors-network/a-sober-look-at-artificial-intelligence-in-journalism-from-the-gen-summit-8df3f04187df)from a conference that has good advice for journalists venturing into AI. 
     
