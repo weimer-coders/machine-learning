@@ -37,9 +37,7 @@ So some of this will be over our heads but these are some examples of machine le
     
 -   A sober look at Artificial Intelligence in journalism from the [GEN Summit](https://gensummit2017.org/): Possible challenges and necessary precautions for worst case scenarios
 
-This appears to be the correct link: 
-https://medium.com/global-editors-network/a-sober-look-at-artificial-intelligence-in-journalism-from-the-gen-summit-8df3f04187df 
-MM
+That link does not work - MM
     
 -   This is a  [very cool conversation ](https://medium.com/global-editors-network/a-sober-look-at-artificial-intelligence-in-journalism-from-the-gen-summit-8df3f04187df)from a conference that has good advice for journalists venturing into AI. 
     
